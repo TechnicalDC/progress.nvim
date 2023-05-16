@@ -1,7 +1,8 @@
 local M = {}
 
 M.options = {
-	dlc = "dlc"
+	dlc = "dlc",
+	db = "db"
 }
 
 M.get_config = function ()
