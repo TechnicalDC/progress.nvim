@@ -1,7 +1,6 @@
 local M = {}
 
 M.options = {
-	dlc = "dlc",
 	db = "db"
 }
 
